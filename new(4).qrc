@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>close.png</file>
+    <file>cross.png</file>
+    <file>icon.png</file>
+    <file>stop.png</file>
+    <file>window.png</file>
+    <file>current_location.jpg</file>
+    <file>start.jpg</file>
+    <file>stop.jpg</file>
+    <file>download.jpg</file>
+    <file>zoom_out.jpg</file>
+    <file>zoom_in.jpg</file>
+    <file>pan_hand.jpg</file>
+    <file>pan.jpg</file>
+    <file>refresh.jpg</file>
+    <file>connect.jpg</file>
+    <file>disconnect.jpg</file>
+    <file>current_location.jpg</file>
+  </qresource>
+</RCC>
